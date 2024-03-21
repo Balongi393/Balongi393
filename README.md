@@ -33,7 +33,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 🎵 Spotify Playing
-[![Spotify](https://spotify-now-playing-profile.vercel.app/api/spotify)](https://open.spotify.com/user/<Balongi>)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5)
 
 ---
 <a href="https://visitcount.itsvg.in">

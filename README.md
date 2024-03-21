@@ -32,7 +32,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### [![SpotifyLogo](https://cdn3.emoji.gg/emojis/SpotifyLogo.png)](https://emoji.gg/emoji/SpotifyLogo) Spotify playing
+### 🎵 Spotify Playing
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 ---

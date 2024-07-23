@@ -14,6 +14,14 @@
 ### 📊 GitHub Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Balongi393&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+### 📈 GitHub Dyanamic Stats:
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=39381252" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=39381252&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Gtarafdar" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=39381252&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -28,9 +36,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 🎵 Spotify Playing
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5)

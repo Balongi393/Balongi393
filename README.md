@@ -25,7 +25,7 @@
 ### ![Repository Icon](https://img.icons8.com/ios-filled/50/000000/repository.png) My Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balongi393&repo=Unity-Sound-Manager)](https://github.com/Balongi393/Unity-Sound-Manager)
 
-### ✍️ My Repos:
+### 📘 My Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balongi393&repo=Unity-Sound-Manager)](https://github.com/Balongi393/Unity-Sound-Manager)
 
 ### 🔝 Top Contributed Repo:

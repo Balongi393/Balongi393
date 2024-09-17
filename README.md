@@ -22,8 +22,8 @@
   </picture>
 </a>
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Time Stats:
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)

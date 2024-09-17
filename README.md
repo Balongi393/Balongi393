@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo:
-<img src="https://myreadme.vercel.app/api/embed/Balongi393?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)
 
 ### 🔥 Longest Streak Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>

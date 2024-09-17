@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Balongi393&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Balongi393&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+![Balongi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)
 
 ### 📈 GitHub Dyanamic Stats:
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=62468041" target="_blank" style="display: block" align="center">

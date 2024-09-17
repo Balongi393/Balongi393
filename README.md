@@ -22,14 +22,14 @@
   </picture>
 </a>
 
+### ![Repository Icon](https://img.icons8.com/ios-filled/50/000000/repository.png) My Repos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balongi393&repo=Unity-Sound-Manager)](https://github.com/Balongi393/Unity-Sound-Manager)
+
 ### ✍️ My Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balongi393&repo=Unity-Sound-Manager)](https://github.com/Balongi393/Unity-Sound-Manager)
 
 ### 🔝 Top Contributed Repo:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)
-
-### 🔥 Longest Streak Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balongi393&theme=tokyonight" alt="mystreak"/>
+![Balongi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)
 
 ### 🏆 GitHub Trophies:
 <img src="https://github-profile-trophy.vercel.app/?username=Balongi393&theme=juicyfresh&no-bg=true" />

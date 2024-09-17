@@ -29,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)
 
 ### 🔥 Longest Streak Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balongi393&theme=tokyonight" alt="mystreak"/>
 
 ### 🏆 GitHub Trophies:
 <img src="https://github-profile-trophy.vercel.app/?username=Balongi393&theme=juicyfresh&no-bg=true" />

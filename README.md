@@ -23,7 +23,7 @@
 </a>
 
 ### ✍️ My Repos:
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Balongi393&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Balongi393&repo=dev.to)]
 
 ### 🔝 Top Contributed Repo:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi393&theme=dark&show_icons=true)

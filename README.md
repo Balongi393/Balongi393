@@ -35,6 +35,4 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Balongi393&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Balongi393&label=Profile%20Views&color=0e75b6&style=flat)
